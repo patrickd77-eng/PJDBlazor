@@ -1,5 +1,5 @@
 ﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
-
+/*CUSTOM START*/
 * {
     font-family: "Noto Sans", sans-serif;
 }
@@ -253,10 +253,10 @@ body {
 }
 
 #footer {
-    margin-top: 125x;
+    margin-top: 125px;
     background-color: #111111;
     color: rgba(255, 255, 255, 0.877);
-    padding: 6rem 0 6rem 0;
+    padding: 3rem 0 3rem 0;
 }
 
     #footer .copyright {
@@ -337,6 +337,8 @@ a > p {
     color: black;
 }
 
+
+/*Custom END*/
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
